@@ -1,0 +1,23 @@
+{
+    "name": "xiaomi/push",
+    "description": "xiaomi push sdk",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Liu Bing",
+            "email": "iflamed@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xmpush": "src/"
+        }
+    }
+}
