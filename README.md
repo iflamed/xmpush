@@ -4,7 +4,7 @@ XiaoMi Push Service Sdk For PHP
 
 ## How to install?
 ```shell
-composer require xiaomi/push
+composer require iflamed/xmpush
 ```
 
 ## How to use?
