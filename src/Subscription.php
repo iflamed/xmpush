@@ -5,7 +5,7 @@
  * @name Subscription
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Subscription extends HttpBase
 {

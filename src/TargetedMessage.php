@@ -6,7 +6,7 @@
  * @desc 构建要发送的消息内容和消息的发送目标。
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class TargetedMessage
 {

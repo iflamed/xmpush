@@ -7,7 +7,7 @@
  * @desc 构建要发送的消息内容。
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Message
 {

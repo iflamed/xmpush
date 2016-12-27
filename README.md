@@ -12,10 +12,10 @@ composer require iflamed/xmpush
 ### Android
 ```php
 <?php
-    use xmpush\Builder;
-    use xmpush\Constants;
-    use xmpush\Sender;
-    use xmpush\TargetedMessage;
+    use XiaoMiPush\Builder;
+    use XiaoMiPush\Constants;
+    use XiaoMiPush\Sender;
+    use XiaoMiPush\TargetedMessage;
 
     $secret = 'your app secret';
     $package = 'your app packagename';
@@ -73,9 +73,9 @@ composer require iflamed/xmpush
 ### iOS
 ```php
 <?php
-    use xmpush\Constants;
-    use xmpush\IOSBuilder;
-    use xmpush\Sender;
+    use XiaoMiPush\Constants;
+    use XiaoMiPush\IOSBuilder;
+    use XiaoMiPush\Sender;
 
     $secret = 'your app secret';
     $bundleId = 'your app bundleId';

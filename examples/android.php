@@ -1,8 +1,8 @@
 <?php
-use xmpush\Builder;
-use xmpush\Constants;
-use xmpush\Sender;
-use xmpush\TargetedMessage;
+use XiaoMiPush\Builder;
+use XiaoMiPush\Constants;
+use XiaoMiPush\Sender;
+use XiaoMiPush\TargetedMessage;
 include_once dirname(__FILE__) . '/autoload.php';
 
 $secret = 'your app secret';

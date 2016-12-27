@@ -6,7 +6,7 @@
  * @desc 获取失效的regId列表。
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Feedback extends HttpBase
 {

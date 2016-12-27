@@ -6,7 +6,7 @@
  * @desc MiPush消息发送
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Sender extends HttpBase
 {

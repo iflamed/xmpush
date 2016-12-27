@@ -4,7 +4,7 @@
  * @name HttpBase
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class HttpBase
 {

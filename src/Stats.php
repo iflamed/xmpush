@@ -6,7 +6,7 @@
  * @desc 获取发送的消息统计数据。
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Stats extends HttpBase
 {

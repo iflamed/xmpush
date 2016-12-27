@@ -6,7 +6,7 @@
  * @desc Sender发送消息后，服务器返回的结果。
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Result
 {

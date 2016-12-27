@@ -1,7 +1,7 @@
 <?php
-use xmpush\Constants;
-use xmpush\IOSBuilder;
-use xmpush\Sender;
+use XiaoMiPush\Constants;
+use XiaoMiPush\IOSBuilder;
+use XiaoMiPush\Sender;
 include_once dirname(__FILE__) . '/autoload.php';
 
 $secret = 'your app secret';

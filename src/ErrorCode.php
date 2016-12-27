@@ -6,7 +6,7 @@
  * @desc 错误码
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class ErrorCode
 {

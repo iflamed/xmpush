@@ -6,7 +6,7 @@
  * @desc 常量定义
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Constants
 {

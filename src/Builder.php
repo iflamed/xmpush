@@ -6,7 +6,7 @@
  * @desc 构建发送给Android设备的Message对象。
  *
  */
-namespace xmpush;
+namespace XiaoMiPush;
 
 class Builder extends Message
 {
