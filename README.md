@@ -16,7 +16,6 @@ composer require xiaomi/push
     use xmpush\Constants;
     use xmpush\Sender;
     use xmpush\TargetedMessage;
-    include_once dirname(__FILE__) . '/autoload.php';
 
     $secret = 'your app secret';
     $package = 'your app packagename';
@@ -77,7 +76,6 @@ composer require xiaomi/push
     use xmpush\Constants;
     use xmpush\IOSBuilder;
     use xmpush\Sender;
-    include_once dirname(__FILE__) . '/autoload.php';
 
     $secret = 'your app secret';
     $bundleId = 'your app bundleId';
