@@ -1,7 +1,7 @@
 <?php
 /**
  * 获取发送的消息统计数据.
- * @author wangkuiwei
+ * @author iflamed
  * @name Stats
  * @desc 获取发送的消息统计数据。
  *

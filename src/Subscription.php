@@ -1,7 +1,7 @@
 <?php
 /**
  * 订阅/取消订阅标签.
- * @author wangkuiwei
+ * @author iflamed
  * @name Subscription
  *
  */

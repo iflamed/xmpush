@@ -2,7 +2,7 @@
 
 /**
  * IOS设备的消息体.
- * @author wangkuiwei
+ * @author iflamed
  * @name IOSBuilder
  * @desc 构建发送给IOS设备的Message对象。
  *

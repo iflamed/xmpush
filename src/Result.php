@@ -1,7 +1,7 @@
 <?php
 /**
  * 服务器返回的结果.
- * @author wangkuiwei
+ * @author iflamed
  * @name Result
  * @desc Sender发送消息后，服务器返回的结果。
  *

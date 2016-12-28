@@ -1,7 +1,7 @@
 <?php
 /**
  * 消息状态追踪API.
- * @author wangkuiwei
+ * @author iflamed
  * @name Tracer
  * @desc 消息状态追踪API。
  *

@@ -1,7 +1,7 @@
 <?php
 /**
  * 要发送的消息内容和消息的发送目标.
- * @author wangkuiwei
+ * @author iflamed
  * @name TargetedMessage
  * @desc 构建要发送的消息内容和消息的发送目标。
  *

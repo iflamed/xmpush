@@ -1,7 +1,7 @@
 <?php
 /**
  * 获取失效的regId列表.
- * @author wangkuiwei
+ * @author iflamed
  * @name Feedback
  * @desc 获取失效的regId列表。
  *

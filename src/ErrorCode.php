@@ -1,7 +1,7 @@
 <?php
 /**
  * 错误码定义.
- * @author wangkuiwei
+ * @author iflamed
  * @name ErrorCode
  * @desc 错误码
  *

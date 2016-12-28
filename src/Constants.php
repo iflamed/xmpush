@@ -1,7 +1,7 @@
 <?php
 /**
  * 常量定义.
- * @author wangkuiwei
+ * @author iflamed
  * @name Constants
  * @desc 常量定义
  *

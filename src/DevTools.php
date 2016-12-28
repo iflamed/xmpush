@@ -1,7 +1,7 @@
 <?php
 /**
  * 设备查询工具集.
- * @author wangkuiwei
+ * @author iflamed
  * @name DevTools
  *
  */

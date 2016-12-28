@@ -1,7 +1,7 @@
 <?php
 /**
  * MiPush消息发送类.
- * @author wangkuiwei
+ * @author iflamed
  * @name Sender
  * @desc MiPush消息发送
  *

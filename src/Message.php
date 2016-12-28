@@ -2,7 +2,7 @@
 
 /**
  * 消息体.
- * @author wangkuiwei
+ * @author iflamed
  * @name Message
  * @desc 构建要发送的消息内容。
  *
